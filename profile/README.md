@@ -26,6 +26,6 @@ __Working Group Members__
 * Scott J Strath - US
 * Julian Martinez - US
 * Ben Maylor - UK
-* Fiona Bull 
+* Fiona Bull - WHO
 
 
