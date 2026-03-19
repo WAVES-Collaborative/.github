@@ -12,8 +12,6 @@ This work is in initial stages. If you are interested in participating please su
 
 ## Contributors
 
-__WHO/Lead__: Dr. Fiona Bull 
-
 __Initial Steering Committee Members__ 
 * Matthew Ahmadi - Australia
 * Kerstin Bach - Norway
@@ -28,5 +26,6 @@ __Working Group Members__
 * Scott J Strath - US
 * Julian Martinez - US
 * Ben Maylor - UK
+* Fiona Bull 
 
 
