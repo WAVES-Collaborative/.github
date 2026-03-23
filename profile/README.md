@@ -2,7 +2,7 @@
 
 ## Information
 
-WAVES is an information group of researchers working on two objectives: 
+WAVES is an informal group of researchers working on two objectives: 
 
 1. To evaluate available wrist-worn algorithms to estimate core physical behavior metrics: steps, sedentary time, moderate-vigorous physical activity. We will use Phase III Verification protocols (i.e., real-world conditions, established reference measure, sample independent from method development, diverse range of participants, appropriate statistical evaluation). 
 
